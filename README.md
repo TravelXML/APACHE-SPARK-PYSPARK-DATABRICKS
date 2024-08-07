@@ -1,5 +1,4 @@
-# APACHE-SPARK-PYSPARK-DATABRICKS
-APACHE SPARK: Data Analysis, Transformation, and Visualisation with PySpark
+# APACHE SPARK: Data Analysis, Transformation, and Visualisation with PySpark
 # IPL Data Analysis with Apache Spark and PySpark on Databricks
 
 ## Introduction
