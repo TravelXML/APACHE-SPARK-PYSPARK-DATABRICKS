@@ -1,7 +1,6 @@
 # APACHE SPARK: Data Analysis, Transformation, and Visualisation with PySpark
-# IPL Data Analysis with Apache Spark and PySpark on Databricks
 
-## Introduction
+## IPL Data Analysis with Apache Spark and PySpark on Databricks
 
 Welcome to the IPL Data Analysis project using Apache Spark and PySpark on Databricks! This project aims to demonstrate the power of big data processing and analytics using Spark, specifically focusing on IPL (Indian Premier League) cricket data. We will leverage the Databricks Community Edition for our computations and showcase how to analyze large datasets efficiently.
 
